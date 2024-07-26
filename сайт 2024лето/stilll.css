@@ -1,0 +1,51 @@
+header {
+
+	padding-top: 40px;
+	height: 220px;	
+	background-color: f0d2a8;	
+}
+
+h3 {
+font-weight: normal;
+}
+
+
+#menu {
+	padding-left: 15px;
+	width:200px;
+	height: 1100px;
+	background-color: f0d2a8;	
+	float:left;
+}
+
+#menu h5 a {
+    color: 683204; /* Измените на нужный вам цвет текста */
+    text-decoration: none; /* Убираем подчеркивание у ссылок, если нужно */
+}
+
+
+#menu ul {
+list-style-type: none;
+font-size:16pt;
+}
+
+main {
+	height: 1100px;
+	padding-left: 50px;	
+	overflow:hidden;
+	background-color: f0d2a8;
+	font-size:18pt;
+	color: 683204;
+}
+#main h5 a {
+	color: 683204; /* Измените на нужный вам цвет текста */
+    text-decoration: none; /* Убираем подчеркивание у ссылок, если нужно */
+}
+
+footer {
+text-align: center;
+padding: 10px 10px;
+height: 30px;
+background-color: #f0d2a8;
+color: b88b62;
+}
